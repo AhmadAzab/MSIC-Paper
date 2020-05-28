@@ -1,6 +1,6 @@
 # MSIC: Malware Spectrogram Image Classification Paper
 
-**"NOTE:Using this code, you agree to cite the following paper "MSIC: Malware Spectrogram Image Classification"**
+**"NOTE: Using this code, you agree to cite the following paper "MSIC: Malware Spectrogram Image Classification"**
 
 Codes to be found in this repository:
 
